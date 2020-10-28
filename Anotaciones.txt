@@ -1,0 +1,16 @@
+Comandos primera clase Bedu-Santander
+pwd-- Nos dice donde estamos ubicacdos en el SO.
+cd-- Cambiar de ubicacion.
+cd ..- Regresar a la ubicacion anterior.
+mkdir-- Crear carpeta
+buscar metas programacion
+
+
+HTML 
+<IMG SCR= ALT=>
+<FORM> formulario
+<INPUT> entrada de datos
+
+
+id una vez # {}
+class las veces que sea .{}
